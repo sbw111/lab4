@@ -1,0 +1,199 @@
+2017-12-09 14:34:32,785 - playground.network.packet.PacketType - DEBUG - Deserialized message vsockets.VNICSocketOpenResponsePacket v1.0 (7f37c0b606d8). 56 bytes remaining
+2017-12-09 14:39:10,506 - playground.network.packet.PacketType - DEBUG - Deserialized message vsockets.VNICSocketOpenResponsePacket v1.0 (7f0271e5f128). 56 bytes remaining
+2017-12-09 14:41:12,882 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e5f4a8). 173 bytes remaining
+2017-12-09 14:41:12,883 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e5f8d0). 67 bytes remaining
+2017-12-09 14:41:14,612 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e5f630). 346 bytes remaining
+2017-12-09 14:41:14,613 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e5f240). 67 bytes remaining
+2017-12-09 14:41:19,613 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e5f7b8). 519 bytes remaining
+2017-12-09 14:41:19,614 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e5f8d0). 67 bytes remaining
+2017-12-09 14:41:24,624 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e5fac8). 692 bytes remaining
+2017-12-09 14:41:24,625 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e5f240). 67 bytes remaining
+2017-12-09 14:41:29,625 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e6dc88). 865 bytes remaining
+2017-12-09 14:41:29,626 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e6dd30). 67 bytes remaining
+2017-12-09 14:41:34,633 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e6dc18). 1038 bytes remaining
+2017-12-09 14:41:34,633 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e6dd68). 67 bytes remaining
+2017-12-09 14:41:39,633 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e6df28). 1211 bytes remaining
+2017-12-09 14:41:39,633 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e6dc50). 67 bytes remaining
+2017-12-09 14:41:44,636 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e6d978). 1384 bytes remaining
+2017-12-09 14:41:44,636 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e6dd30). 67 bytes remaining
+2017-12-09 14:41:49,645 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e6da58). 1557 bytes remaining
+2017-12-09 14:41:49,646 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e6dd68). 67 bytes remaining
+2017-12-09 14:41:54,661 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e6d5f8). 1730 bytes remaining
+2017-12-09 14:41:54,662 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e6dc50). 67 bytes remaining
+2017-12-09 14:41:59,652 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e6df28). 1903 bytes remaining
+2017-12-09 14:41:59,653 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e6dd30). 67 bytes remaining
+2017-12-09 14:42:04,661 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e6d978). 2076 bytes remaining
+2017-12-09 14:42:04,662 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e6dd68). 67 bytes remaining
+2017-12-09 14:42:09,662 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e6da58). 2249 bytes remaining
+2017-12-09 14:42:09,663 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e6dc50). 67 bytes remaining
+2017-12-09 14:42:14,666 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e6d5f8). 2422 bytes remaining
+2017-12-09 14:42:14,667 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e6dd30). 67 bytes remaining
+2017-12-09 14:42:19,671 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e6df28). 2595 bytes remaining
+2017-12-09 14:42:19,672 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e6dd68). 67 bytes remaining
+2017-12-09 14:42:24,671 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e6d978). 2768 bytes remaining
+2017-12-09 14:42:24,672 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e6dc50). 67 bytes remaining
+2017-12-09 14:42:29,682 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e6da58). 2941 bytes remaining
+2017-12-09 14:42:29,683 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e6dd30). 67 bytes remaining
+2017-12-09 14:42:34,680 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e6d5f8). 3114 bytes remaining
+2017-12-09 14:42:34,681 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e6dd68). 67 bytes remaining
+2017-12-09 14:42:39,686 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e70b00). 3287 bytes remaining
+2017-12-09 14:42:39,686 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e70fd0). 67 bytes remaining
+2017-12-09 14:42:44,692 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e70978). 3460 bytes remaining
+2017-12-09 14:42:44,693 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e70f60). 67 bytes remaining
+2017-12-09 14:42:49,690 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e70ac8). 3633 bytes remaining
+2017-12-09 14:42:49,692 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e70f98). 67 bytes remaining
+2017-12-09 14:42:54,704 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e70ba8). 3806 bytes remaining
+2017-12-09 14:42:54,705 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e70fd0). 67 bytes remaining
+2017-12-09 14:47:43,070 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e70898). 3979 bytes remaining
+2017-12-09 14:47:43,070 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e70f60). 67 bytes remaining
+2017-12-09 14:47:45,062 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e70400). 4152 bytes remaining
+2017-12-09 14:47:45,063 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e70f98). 67 bytes remaining
+2017-12-09 14:47:50,065 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e70ac8). 4325 bytes remaining
+2017-12-09 14:47:50,066 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e70fd0). 67 bytes remaining
+2017-12-09 14:48:12,225 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e70ba8). 4498 bytes remaining
+2017-12-09 14:48:12,226 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e70f60). 67 bytes remaining
+2017-12-09 14:48:14,009 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e70898). 4671 bytes remaining
+2017-12-09 14:48:14,010 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e70f98). 67 bytes remaining
+2017-12-09 14:48:18,205 - playground.network.packet.PacketType - DEBUG - Deserialized message vsockets.VNICConnectionSpawnedPacket v1.0 (7f0271e70b38). 155 bytes remaining
+2017-12-09 14:48:18,206 - playground.org,MobileCodeService.Server - DEBUG - Mobile Code Server received connection from ('20174.1.1337.1', 2030)
+2017-12-09 14:48:18,206 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.OpenSession v1.0 (7f0271e6d748). 62 bytes remaining
+2017-12-09 14:48:18,207 - playground.org,MobileCodeService.Server - DEBUG - Server received packet with cookie 2088856788
+2017-12-09 14:48:18,207 - playground.org,MobileCodeService.Server - DEBUG - Server created session with cookie 8971571591005521964
+2017-12-09 14:48:18,242 - playground.network.packet.PacketType - DEBUG - Deserialized message vsockets.VNICConnectionSpawnedPacket v1.0 (7f0271e52ef0). 254 bytes remaining
+2017-12-09 14:48:18,243 - playground.org,MobileCodeService.Server - DEBUG - Mobile Code Server received connection from ('20174.1.1337.1', 2031)
+2017-12-09 14:48:18,244 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.RunMobileCode v1.0 (7f0271e73b00). 1435 bytes remaining
+2017-12-09 14:48:18,244 - playground.org,MobileCodeService.Server - DEBUG - Server received packet with cookie 8971571591005521964
+2017-12-09 14:48:18,249 - playground.org,MobileCodeService.Server - DEBUG - Execution of Python Code begun
+2017-12-09 14:48:19,015 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e52ef0). 4844 bytes remaining
+2017-12-09 14:48:19,016 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e70fd0). 67 bytes remaining
+2017-12-09 14:48:21,299 - playground.network.packet.PacketType - DEBUG - Deserialized message vsockets.VNICConnectionSpawnedPacket v1.0 (7f0271e52ef0). 353 bytes remaining
+2017-12-09 14:48:21,301 - playground.org,MobileCodeService.Server - DEBUG - Mobile Code Server received connection from ('20174.1.1337.1', 2033)
+2017-12-09 14:48:21,302 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.GetMobileCodeStatus v1.0 (7f0271e6d940). 70 bytes remaining
+2017-12-09 14:48:21,302 - playground.org,MobileCodeService.Server - DEBUG - Server received packet with cookie 8971571591005521964
+2017-12-09 14:48:21,353 - playground.network.packet.PacketType - DEBUG - Deserialized message vsockets.VNICConnectionSpawnedPacket v1.0 (7f0271e6d940). 452 bytes remaining
+2017-12-09 14:48:21,354 - playground.org,MobileCodeService.Server - DEBUG - Mobile Code Server received connection from ('20174.1.1337.1', 2034)
+2017-12-09 14:48:21,355 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.GetMobileCodeResult v1.0 (7f0271e6dba8). 70 bytes remaining
+2017-12-09 14:48:21,355 - playground.org,MobileCodeService.Server - DEBUG - Server received packet with cookie 8971571591005521964
+2017-12-09 14:48:21,699 - playground.network.packet.PacketType - DEBUG - Deserialized message vsockets.VNICConnectionSpawnedPacket v1.0 (7f0273a32278). 551 bytes remaining
+2017-12-09 14:48:21,700 - playground.org,MobileCodeService.Server - DEBUG - Mobile Code Server received connection from ('20174.1.1337.1', 2035)
+2017-12-09 14:48:21,700 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.SubmitPayment v1.0 (7f0271e5f748). 1504 bytes remaining
+2017-12-09 14:48:21,701 - playground.org,MobileCodeService.Server - DEBUG - Server received packet with cookie 8971571591005521964
+2017-12-09 14:48:24,014 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0273a32278). 5017 bytes remaining
+2017-12-09 14:48:24,015 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e5fe48). 67 bytes remaining
+2017-12-09 14:48:29,020 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0273a32278). 5190 bytes remaining
+2017-12-09 14:48:29,021 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e6da58). 67 bytes remaining
+2017-12-09 14:48:34,023 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e5f828). 5363 bytes remaining
+2017-12-09 14:48:34,024 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e5fe48). 67 bytes remaining
+2017-12-09 14:48:39,033 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e5f828). 5536 bytes remaining
+2017-12-09 14:48:39,034 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e6d780). 67 bytes remaining
+2017-12-09 14:48:44,032 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e5f9e8). 5709 bytes remaining
+2017-12-09 14:48:44,032 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e5f7f0). 67 bytes remaining
+2017-12-09 14:48:49,039 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e5f9e8). 5882 bytes remaining
+2017-12-09 14:48:49,040 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e6dbe0). 67 bytes remaining
+2017-12-09 14:48:54,045 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e526a0). 6055 bytes remaining
+2017-12-09 14:48:54,046 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e6dc50). 67 bytes remaining
+2017-12-09 14:48:59,047 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e526a0). 6228 bytes remaining
+2017-12-09 14:48:59,047 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e5fe48). 67 bytes remaining
+2017-12-09 14:49:04,050 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e706d8). 6401 bytes remaining
+2017-12-09 14:49:04,051 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e5fe48). 67 bytes remaining
+2017-12-09 14:49:09,055 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0273a32278). 6574 bytes remaining
+2017-12-09 14:49:09,056 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e5fe48). 67 bytes remaining
+2017-12-09 14:49:14,067 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e5f9e8). 6747 bytes remaining
+2017-12-09 14:49:14,067 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e5f7f0). 67 bytes remaining
+2017-12-09 14:49:19,071 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e73f98). 6920 bytes remaining
+2017-12-09 14:49:19,072 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e73198). 67 bytes remaining
+2017-12-09 14:49:24,079 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e735f8). 7093 bytes remaining
+2017-12-09 14:49:24,080 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e73a58). 67 bytes remaining
+2017-12-09 14:50:36,642 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e73fd0). 7266 bytes remaining
+2017-12-09 14:50:36,643 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e73198). 67 bytes remaining
+2017-12-09 14:50:39,504 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e73160). 7439 bytes remaining
+2017-12-09 14:50:39,504 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e73a58). 67 bytes remaining
+2017-12-09 14:50:41,127 - playground.network.packet.PacketType - DEBUG - Deserialized message vsockets.VNICConnectionSpawnedPacket v1.0 (7f0271e73160). 650 bytes remaining
+2017-12-09 14:50:41,128 - playground.org,MobileCodeService.Server - DEBUG - Mobile Code Server received connection from ('20174.1.1337.1', 2052)
+2017-12-09 14:50:41,129 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.OpenSession v1.0 (7f0271e52898). 62 bytes remaining
+2017-12-09 14:50:41,129 - playground.org,MobileCodeService.Server - DEBUG - Server received packet with cookie 3047609315
+2017-12-09 14:50:41,130 - playground.org,MobileCodeService.Server - DEBUG - Server created session with cookie 13089382341973273973
+2017-12-09 14:50:41,177 - playground.network.packet.PacketType - DEBUG - Deserialized message vsockets.VNICConnectionSpawnedPacket v1.0 (7f0271e70358). 749 bytes remaining
+2017-12-09 14:50:41,177 - playground.org,MobileCodeService.Server - DEBUG - Mobile Code Server received connection from ('20174.1.1337.1', 2053)
+2017-12-09 14:50:41,178 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.RunMobileCode v1.0 (7f0271e52400). 1435 bytes remaining
+2017-12-09 14:50:41,179 - playground.org,MobileCodeService.Server - DEBUG - Server received packet with cookie 13089382341973273973
+2017-12-09 14:50:41,184 - playground.org,MobileCodeService.Server - DEBUG - Execution of Python Code begun
+2017-12-09 14:50:44,223 - playground.network.packet.PacketType - DEBUG - Deserialized message vsockets.VNICConnectionSpawnedPacket v1.0 (7f0271e70828). 848 bytes remaining
+2017-12-09 14:50:44,223 - playground.org,MobileCodeService.Server - DEBUG - Mobile Code Server received connection from ('20174.1.1337.1', 2054)
+2017-12-09 14:50:44,224 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.GetMobileCodeStatus v1.0 (7f0271e5f320). 70 bytes remaining
+2017-12-09 14:50:44,224 - playground.org,MobileCodeService.Server - DEBUG - Server received packet with cookie 13089382341973273973
+2017-12-09 14:50:44,260 - playground.network.packet.PacketType - DEBUG - Deserialized message vsockets.VNICConnectionSpawnedPacket v1.0 (7f0271e70358). 947 bytes remaining
+2017-12-09 14:50:44,261 - playground.org,MobileCodeService.Server - DEBUG - Mobile Code Server received connection from ('20174.1.1337.1', 2055)
+2017-12-09 14:50:44,261 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.GetMobileCodeResult v1.0 (7f0271e5ff60). 70 bytes remaining
+2017-12-09 14:50:44,262 - playground.org,MobileCodeService.Server - DEBUG - Server received packet with cookie 13089382341973273973
+2017-12-09 14:50:44,514 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e70358). 7612 bytes remaining
+2017-12-09 14:50:44,515 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e73198). 67 bytes remaining
+2017-12-09 14:50:49,508 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e70358). 7785 bytes remaining
+2017-12-09 14:50:49,509 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e52ef0). 67 bytes remaining
+2017-12-09 14:50:54,515 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e70358). 7958 bytes remaining
+2017-12-09 14:50:54,515 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e52ef0). 67 bytes remaining
+2017-12-09 14:50:59,522 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e70358). 8131 bytes remaining
+2017-12-09 14:50:59,523 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e73198). 67 bytes remaining
+2017-12-09 14:51:04,528 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e73a58). 8304 bytes remaining
+2017-12-09 14:51:04,529 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e73198). 67 bytes remaining
+2017-12-09 14:51:09,530 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e83d68). 8477 bytes remaining
+2017-12-09 14:51:09,531 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e83b70). 67 bytes remaining
+2017-12-09 14:51:14,536 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e83d30). 8650 bytes remaining
+2017-12-09 14:51:14,538 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e83cc0). 67 bytes remaining
+2017-12-09 14:51:19,542 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e83e48). 8823 bytes remaining
+2017-12-09 14:51:19,542 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e83b70). 67 bytes remaining
+2017-12-09 14:51:24,543 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e83eb8). 8996 bytes remaining
+2017-12-09 14:51:24,544 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e83cc0). 67 bytes remaining
+2017-12-09 14:51:29,547 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e83ba8). 9169 bytes remaining
+2017-12-09 14:51:29,548 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e83b70). 67 bytes remaining
+2017-12-09 14:51:34,555 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e83780). 9342 bytes remaining
+2017-12-09 14:51:34,556 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e83cc0). 67 bytes remaining
+2017-12-09 14:51:39,564 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e6db00). 9515 bytes remaining
+2017-12-09 14:51:39,565 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e83cc0). 67 bytes remaining
+2017-12-09 14:51:44,566 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e6db00). 9688 bytes remaining
+2017-12-09 14:51:44,567 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e83cc0). 67 bytes remaining
+2017-12-09 14:51:49,567 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e6db00). 9861 bytes remaining
+2017-12-09 14:51:49,567 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e83cc0). 67 bytes remaining
+2017-12-09 14:51:54,584 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e6db00). 10034 bytes remaining
+2017-12-09 14:51:54,584 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e83cc0). 67 bytes remaining
+2017-12-09 14:51:59,579 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e6db00). 10207 bytes remaining
+2017-12-09 14:51:59,580 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e83cc0). 67 bytes remaining
+2017-12-09 14:52:04,588 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7f0271e6db00). 10380 bytes remaining
+2017-12-09 14:52:04,589 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7f0271e83cc0). 67 bytes remaining
+2017-12-09 14:55:51,355 - playground.network.packet.PacketType - DEBUG - Deserialized message vsockets.VNICSocketOpenResponsePacket v1.0 (7fbb63598358). 56 bytes remaining
+2017-12-09 14:56:06,952 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7fbb635aa438). 173 bytes remaining
+2017-12-09 14:56:06,952 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7fbb635aaa58). 67 bytes remaining
+2017-12-09 14:56:09,857 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7fbb635aa6a0). 346 bytes remaining
+2017-12-09 14:56:09,857 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7fbb635aa4a8). 67 bytes remaining
+2017-12-09 14:56:10,506 - playground.network.packet.PacketType - DEBUG - Deserialized message vsockets.VNICConnectionSpawnedPacket v1.0 (7fbb635aa978). 155 bytes remaining
+2017-12-09 14:56:10,506 - playground.org,MobileCodeService.Server - DEBUG - Mobile Code Server received connection from ('20174.1.1337.1', 2077)
+2017-12-09 14:56:10,507 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.OpenSession v1.0 (7fbb635b3860). 62 bytes remaining
+2017-12-09 14:56:10,507 - playground.org,MobileCodeService.Server - DEBUG - Server received packet with cookie 1743028333
+2017-12-09 14:56:10,508 - playground.org,MobileCodeService.Server - DEBUG - Server created session with cookie 7486249686512707277
+2017-12-09 14:56:10,543 - playground.network.packet.PacketType - DEBUG - Deserialized message vsockets.VNICConnectionSpawnedPacket v1.0 (7fbb635aae48). 254 bytes remaining
+2017-12-09 14:56:10,543 - playground.org,MobileCodeService.Server - DEBUG - Mobile Code Server received connection from ('20174.1.1337.1', 2078)
+2017-12-09 14:56:10,544 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.RunMobileCode v1.0 (7fbb635aa080). 1435 bytes remaining
+2017-12-09 14:56:10,544 - playground.org,MobileCodeService.Server - DEBUG - Server received packet with cookie 7486249686512707277
+2017-12-09 14:56:10,550 - playground.org,MobileCodeService.Server - DEBUG - Execution of Python Code begun
+2017-12-09 14:56:13,589 - playground.network.packet.PacketType - DEBUG - Deserialized message vsockets.VNICConnectionSpawnedPacket v1.0 (7fbb635aa080). 353 bytes remaining
+2017-12-09 14:56:13,589 - playground.org,MobileCodeService.Server - DEBUG - Mobile Code Server received connection from ('20174.1.1337.1', 2079)
+2017-12-09 14:56:13,590 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.GetMobileCodeStatus v1.0 (7fbb63598e80). 70 bytes remaining
+2017-12-09 14:56:13,590 - playground.org,MobileCodeService.Server - DEBUG - Server received packet with cookie 7486249686512707277
+2017-12-09 14:56:13,627 - playground.network.packet.PacketType - DEBUG - Deserialized message vsockets.VNICConnectionSpawnedPacket v1.0 (7fbb635aa6d8). 452 bytes remaining
+2017-12-09 14:56:13,627 - playground.org,MobileCodeService.Server - DEBUG - Mobile Code Server received connection from ('20174.1.1337.1', 2080)
+2017-12-09 14:56:13,628 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.GetMobileCodeResult v1.0 (7fbb63598780). 70 bytes remaining
+2017-12-09 14:56:13,628 - playground.org,MobileCodeService.Server - DEBUG - Server received packet with cookie 7486249686512707277
+2017-12-09 14:56:14,856 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7fbb65178278). 519 bytes remaining
+2017-12-09 14:56:14,857 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7fbb63598550). 67 bytes remaining
+2017-12-09 14:56:19,859 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7fbb65178278). 692 bytes remaining
+2017-12-09 14:56:19,860 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7fbb635aaa58). 67 bytes remaining
+2017-12-09 14:56:24,866 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7fbb65178278). 865 bytes remaining
+2017-12-09 14:56:24,867 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7fbb635980b8). 67 bytes remaining
+2017-12-09 14:56:29,869 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7fbb63598710). 1038 bytes remaining
+2017-12-09 14:56:29,869 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7fbb635aa4a8). 67 bytes remaining
+2017-12-09 14:56:34,877 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7fbb63598710). 1211 bytes remaining
+2017-12-09 14:56:34,878 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7fbb635aa4a8). 67 bytes remaining
+2017-12-09 14:56:39,878 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7fbb63598710). 1384 bytes remaining
+2017-12-09 14:56:39,879 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7fbb635aa3c8). 67 bytes remaining
+2017-12-09 14:56:44,890 - playground.network.packet.PacketType - DEBUG - Deserialized message switching.WirePacket v1.0 (7fbb63598710). 1557 bytes remaining
+2017-12-09 14:56:44,891 - playground.network.packet.PacketType - DEBUG - Deserialized message playground.org.mobilecode.MobileCodeServiceDiscovery v1.0 (7fbb635aaf60). 67 bytes remaining
